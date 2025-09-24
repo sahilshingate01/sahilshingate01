@@ -20,11 +20,10 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilshingate01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshingate01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+</p>
 
-</div>
 
 ---
