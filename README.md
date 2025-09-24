@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+%2C+Myself+Sahil+Shingate👋🏻;An+Explorer+of+DSA+%26+Web+Dev;open+for+collaboration😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=700&lines=Hi+%2C+Myself+Sahil+Shingate👋🏻;An+Explorer+of+DSA+%26+Web+Development;open+for+collaboration😁)](https://git.io/typing-svg)
 
 I'm a Full-Stack Developer passionate about building scalable and creative web solutions. As a B.Tech student, I’m constantly improving my skills in MERN stack development, Python, and Data Structures & Algorithms in C++.
 
