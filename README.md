@@ -46,10 +46,10 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahilshingate01&theme=dark&hide_border=false" height="200" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahilshingate01&theme=dark&hide_border=false&layout=compact" height="200" />
-</p>
+</div>
 
 
 ---
