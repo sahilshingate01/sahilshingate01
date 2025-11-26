@@ -47,8 +47,8 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahilshingate01&theme=dark&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshingate01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="420" height="200"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahilshingate01&theme=dark&hide_border=false" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahilshingate01&theme=dark&hide_border=false&layout=compact" height="200" />
 </p>
 
 
