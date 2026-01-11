@@ -46,8 +46,6 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
