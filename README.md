@@ -44,18 +44,4 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sahilshingate01&theme=dark&hide_border=false" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshingate01&theme=dark&hide_border=false&layout=compact" height="200"/>
-    </td>
-  </tr>
-</table>
-
-
 ---
