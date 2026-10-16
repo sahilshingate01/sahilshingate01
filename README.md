@@ -44,4 +44,17 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
----
+<div>
+  <a href="https://commit-history.com/sahilshingate01">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://commit-history.com/embed/sahilshingate01?theme=dark"
+      />
+      <img
+        alt="sahilshingate01's commit history"
+        src="https://commit-history.com/embed/sahilshingate01"
+      />
+    </picture>
+  </a>
+</div>
