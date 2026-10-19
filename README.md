@@ -46,6 +46,67 @@ I'm a Full-Stack Developer passionate about building scalable and creative web s
 
 <br><br>
 
+## 🚀 Projects & Developer Tools
+
+### 🤖 AI Agents & Agent Infrastructure
+
+- [**Agent-Farm-CLI**](https://github.com/search?q=Agent-Farm-CLI&type=repositories) — Isolated multi-account AI CLI for macOS using separate Apple container VMs to isolate credentials and prevent Keychain conflicts.
+- [**Agent-Farm-Web-Desktop**](https://github.com/search?q=Agent-Farm-Web-Desktop&type=repositories) — Web and desktop control plane for orchestrating AI accounts, tools, sandboxes, and distributed agent workflows.
+- [**Evolith**](https://github.com/search?q=Evolith&type=repositories) — Autonomous AI agent harness that executes commands, adapts its tooling, and generates its own terminal interface.
+- [**ObsidianX**](https://github.com/search?q=ObsidianX&type=repositories) — Desktop client for the Claude Agent SDK with autonomous coding, file operations, and web research.
+- [**Quorum**](https://github.com/search?q=Quorum&type=repositories) — Collaborative workspace where AI agents and humans work together through channels, messages, documents, and interactive canvases.
+- [**Quorum-agent**](https://github.com/search?q=Quorum-agent&type=repositories) — Relay daemon connecting local developer machines and coding CLIs to collaborative AI workspaces.
+- [**agent-desktop**](https://github.com/search?q=agent-desktop&type=repositories) — macOS execution sandbox providing AI agents with dedicated user sessions and browser-accessible desktop streaming.
+- [**agent-skills**](https://github.com/search?q=agent-skills&type=repositories) — Modular agent skills, MCP servers, and workflow hooks for developer tools.
+- [**instinctual-memory**](https://github.com/search?q=instinctual-memory&type=repositories) — Git-based persistent memory engine that extracts and organizes coding-agent knowledge.
+- [**kiro**](https://github.com/search?q=kiro%20spec-driven-development&type=repositories) — Spec-Driven Development guide and agent skill for requirements, design, and implementation workflows.
+- [**Incident Response Environment**](https://github.com/sahilshingate01/incident-response-env) — OpenEnv-compatible environment for evaluating AI agents on incident diagnosis, root-cause analysis, and automated remediation.
+- [**Calling Agent**](https://github.com/sahilshingate01/Calling---Agent) — AI-powered phone assistant that transcribes calls, generates spoken responses, maintains conversation history, and sends post-call summaries.
+
+### 🧠 LLM Context, AI Workflows & MCP
+
+- [**ContextForge**](https://github.com/search?q=ContextForge&type=repositories) — Lightweight, zero-dependency context compression engine that extracts relevant sentences and removes redundant prompt content.
+- [**fluent-mcp**](https://github.com/search?q=fluent-mcp&type=repositories) — Chainable TypeScript SDK for building MCP servers and clients with minimal boilerplate and automated CRUD generation.
+- [**OAuth2 Client**](https://github.com/sahilshingate01/Oauth) — Reusable OAuth2 client with provider-specific connectors, authorization URL generation, and access-token exchange helpers.
+
+### 🛠️ Developer Productivity & Systems Tools
+
+- [**askshell**](https://github.com/search?q=askshell&type=repositories) — Natural-language-to-shell utility with syntax highlighting, safety validation, and multiple AI backends.
+- [**build-cleaner**](https://github.com/search?q=build-cleaner&type=repositories) — Fast Rust CLI that identifies regenerable build artifacts and caches to reclaim disk space safely.
+- [**commit collector**](https://github.com/search?q=commit%20collector&type=repositories) — Web utility for extracting GitHub commit histories into structured, customizable formats.
+- [**unithread**](https://github.com/search?q=unithread&type=repositories) — Isomorphic JavaScript and TypeScript multithreading library unifying Node.js worker threads and browser Web Workers.
+
+### 🎨 Frontend, UI & Creative Tools
+
+- [**stacks**](https://github.com/search?q=stacks&type=repositories) — AI-powered infinite canvas for spatial thinking, interactive notes, sticky cards, and visual workflows.
+- [**CursorBuddy**](https://github.com/search?q=CursorBuddy&type=repositories) — Animated cursor companion for web and Electron apps, with Bezier motion, speech bubbles, and voice-state indicators.
+- [**ShadKit**](https://github.com/search?q=ShadKit&type=repositories) — Native SwiftUI implementation of shadcn/ui and Vercel AI Elements for macOS and iOS.
+- [**blobatarKit**](https://github.com/search?q=blobatarKit&type=repositories) — Native SwiftUI and AppKit procedural avatar generator using customizable vector paths.
+- [**chadcn**](https://github.com/search?q=chadcn&type=repositories) — Component catalog and registry explorer for discovering and previewing UI components and design themes.
+- [**freemock**](https://github.com/search?q=freemock&type=repositories) — Browser-based 3D device mockup studio for presenting screenshots on realistic phones and laptops.
+- [**liquid-depth**](https://github.com/search?q=liquid-depth&type=repositories) — Interactive 3D parallax interface using webcam-based head tracking for dynamic lighting and depth effects.
+
+### 🧪 AI, Learning & Full-Stack Applications
+
+- [**RecallHQ**](https://github.com/sahilshingate01/RecallHQ) — Productivity and learning workspace with interactive task tracking, learning roadmaps, and an internship preparation planner.
+
+### ⚙️ Systems Engineering, GPU Computing & Robotics
+
+- [**CUDAwave**](https://github.com/sahilshingate01/CUDAwave) — GPU-accelerated 2D electromagnetic FDTD solver with on-device incident-field computation, CPU-reference validation, and performance benchmarks.
+- [**Robotic Manipulator — Flipkart GRiD 5.0**](https://github.com/sahilshingate01/Robotic_Manupalutor_FlipkartGrid5.0) — 3-DOF robotic arm featuring inverse kinematics, MoveIt motion planning, and vacuum-gripper-based pick-and-place control.
+
+---
+
+**Explore more:** [All repositories](https://github.com/sahilshingate01?tab=repositories) · [GitHub profile](https://github.com/sahilshingate01)
+
+
+
+
+
+<br><br>
+
+
+
 <div>
   <a href="https://commit-history.com/sahilshingate01">
     <picture>
